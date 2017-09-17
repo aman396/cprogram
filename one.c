@@ -29,6 +29,9 @@ for(i=1;i<=n;i++)
  sum=(i*i)+sum;
 }
 printf("SUM IS__%d__",sum);
+
+PRN("Enter number of terms of fibbo");
+
 /*
 
 fibonnacci using iteration
